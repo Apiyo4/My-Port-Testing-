@@ -6,3 +6,8 @@ body{
     margin: 20px auto ;
     width: 80%;
 }
+
+img{
+    height: 640px;
+    width: 840px;
+}
